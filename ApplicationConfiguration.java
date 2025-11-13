@@ -1,4 +1,4 @@
-package com.app.FoodApp.cofiguration;
+package com.app.FoodApp.configuration;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,3 +32,4 @@ public class ApplicationConfiguration
 	}
 
 }
+
